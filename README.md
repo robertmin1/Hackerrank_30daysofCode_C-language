@@ -3,7 +3,7 @@
 
 CONTENTS:
 
-Day 0: Hello, World
+Day 0: Hello, World\n
 Day 1: Data Types
 Day 2: Operators
 Day 3: Intro to Conditional Statements
